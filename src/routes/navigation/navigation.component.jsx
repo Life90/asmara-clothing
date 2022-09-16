@@ -27,6 +27,10 @@ const Navigation = () => {
         <LogoContainer to="/">
           <CrwnLogo className="logo" />
         </LogoContainer>
+        <div className="manna">
+          <h1>{"Welcome to Asmara Clothing Center"}</h1>
+        </div>
+
         <NavLinks>
           <NavLink to="/shop">SHOP</NavLink>
 
