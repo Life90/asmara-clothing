@@ -21,13 +21,12 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDqz4I2eXsAbQVdfZuLtupBdjf6yatmRNs",
-  authDomain: "asmara-clothing.firebaseapp.com",
-  projectId: "asmara-clothing",
-  storageBucket: "asmara-clothing.appspot.com",
-  messagingSenderId: "692124438755",
-  appId: "1:692124438755:web:1c9e422df19d6a2c6d75d6",
-  measurementId: "G-09QZ6NWK2Q",
+  apiKey: "AIzaSyDDU4V-_QV3M8GyhC9SVieRTDM4dbiT0Yk",
+  authDomain: "crwn-clothing-db-98d4d.firebaseapp.com",
+  projectId: "crwn-clothing-db-98d4d",
+  storageBucket: "crwn-clothing-db-98d4d.appspot.com",
+  messagingSenderId: "626766232035",
+  appId: "1:626766232035:web:506621582dab103a4d08d6",
 };
 const firebaseApp = initializeApp(firebaseConfig);
 
