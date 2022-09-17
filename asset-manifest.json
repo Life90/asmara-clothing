@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Life90/asmara-clothingi.git/static/css/main.a3649af8.css",
-    "main.js": "/Life90/asmara-clothingi.git/static/js/main.7dac5aa1.js",
+    "main.js": "/Life90/asmara-clothingi.git/static/js/main.ce3d36e9.js",
     "static/media/shopping-bag.svg": "/Life90/asmara-clothingi.git/static/media/shopping-bag.3cdf4d483270089c63bd16aa9de127ae.svg",
     "static/media/crown.svg": "/Life90/asmara-clothingi.git/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
     "index.html": "/Life90/asmara-clothingi.git/index.html",
     "main.a3649af8.css.map": "/Life90/asmara-clothingi.git/static/css/main.a3649af8.css.map",
-    "main.7dac5aa1.js.map": "/Life90/asmara-clothingi.git/static/js/main.7dac5aa1.js.map"
+    "main.ce3d36e9.js.map": "/Life90/asmara-clothingi.git/static/js/main.ce3d36e9.js.map"
   },
   "entrypoints": [
     "static/css/main.a3649af8.css",
-    "static/js/main.7dac5aa1.js"
+    "static/js/main.ce3d36e9.js"
   ]
 }
